@@ -1,4 +1,8 @@
-### Hi 👋 I'm Harshil and have been working in the cyber security industry for 4+ years. I am interested in hacking, scripting, and creating detection rules. 
+### Welcome to my github.
+===============================
+
+My name is Harshil and I have about 4 years of experience within the cyber security industry professionally but have been interested in technology my whole life. I mainly specialize in threat detection and response, however; recently I have been participating in CTFs.
+
 
 <!--
 **hhhharshil/hhhharshil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
