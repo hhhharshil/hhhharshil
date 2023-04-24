@@ -3,7 +3,7 @@
 
 
 
-My name is Harshil and I have about 4 years of experience within the cyber security industry professionally but have been interested in technology my whole life. I mainly specialize in threat detection and response, however; recently I have been participating in CTFs.
+I spend way to much time on the Internet
 
 
 <!--
